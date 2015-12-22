@@ -1,0 +1,2 @@
+SSH connection established to rxUSfilliben001:22
+Interactive SSH session established

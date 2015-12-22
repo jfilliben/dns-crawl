@@ -1,0 +1,7 @@
+# This file lists all prefixes which should be excluded from generating DNS entries
+#
+# Compatible formats are:
+#   wildcard notation - 192.168.*.*
+#   string notation - 192.168.
+#   subnet notation - 192.168.0.0/16
+#
